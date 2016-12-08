@@ -44,12 +44,30 @@ Week 7
 
 For COMP 120 we did a peer review of each others work, what I learned from this is that I dont follow PEP-8 very well and that the sophistication of my code was not very good.
 
-For COMP 150
 
 Week 8
 
+For COMP 150 we started tinkering audio which I found very difficult to follow but after discussing with my peers, about solutions we found a way to solve it.
 
+For COMP 150 we we had our sprint review, the problem we faced was that we had possibly made the scope too broad. This meant we were wasting time on small things like a menu, so after discussing with our tutor we decided to scale down our scope slightly.
 
 Week 9
+
+I had no problems this week.
+
+Week 10
+
+For COMP 110 we were introduced to C++ which seemed difficult becuase of the samll changes that made it different to python and how we had to prepare them. But after looking further into C++ it does not seem much more diffucult.
+
+For COMP 150 we had an academic peer review, my essay had lots of flaws becuase I decided to change my qustion at the last moment, this meant my draft was not as good as it could've been.
+
+Week 11
+
+For COMP 110 this week we looked at mathmatics for computing professionals, which I am very weak on, over the christmas period I am going to try to update my maths knowledge to help me with this problem.
+
+For COMP 150 we had out second sprint review, at this point we did not hav e agame or many mechanics and were panicking about the outcome of our pe  production task. But in the session we managed to fix and add quite a lot of what was wrong with our code.
+
+Week 12
+For COMP 150 we had our presentation to investors which we were severely under prepared for and our pre production task was not good at all, seeing as it wan not a game and merely a jumbled batch of mechanics.
 
 
