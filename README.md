@@ -68,6 +68,7 @@ For COMP 110 this week we looked at mathmatics for computing professionals, whic
 For COMP 150 we had out second sprint review, at this point we did not hav e agame or many mechanics and were panicking about the outcome of our pe  production task. But in the session we managed to fix and add quite a lot of what was wrong with our code.
 
 Week 12
+
 For COMP 150 we had our presentation to investors which we were severely under prepared for and our pre production task was not good at all, seeing as it wan not a game and merely a jumbled batch of mechanics.
 
 
