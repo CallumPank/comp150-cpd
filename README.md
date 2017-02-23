@@ -2,10 +2,12 @@
 
 ## Week 1
 
+Symester 1
 
 Week 1 
 
 This week we had our first lecture to do with the history of computing. Nothing in this lecture was that new to me. For the rest of the week we had the Lego robot Olympics which was slightly challenging on the first day because I did not understand how the programming function on the robot worked, but after the first day it started to make sense. The reason I made sense of this is because I asked a teammate, who knew what they were doing with the robot. They taught me how to use it.
+
 Week 2 
 
 The first lecture of the week was to do with the Python IDE and how to use variable, loops, and conditionals. These were slightly challenging at first but after the lecture I understood these to a good extent. 
@@ -66,3 +68,30 @@ For COMP 150 we had our second sprint review, at this point we did not have a ga
 Week 12
 
 For COMP 150 we had our presentation to investors which we were severely under prepared for and our pre-production task was not good at all, since it was not a game and merely a jumbled batch of mechanics.
+
+Symester 2
+
+Week 1
+I had no problems this week.
+
+Week 2
+For COMP 140 we looked at colletions and generic types I found this to be quite confusing but I plan to to read more about it later this week. 
+
+For COMP 160 we looked at UML diagrams this was relativly easy but I am still confused on how to do it properly so I plan to research it later.
+
+Week 3
+For COMP 130 we looked at advanced OOP design I missed this lecture but read the slides and understood most of it but will need to do further research to fully grasp this concept.
+
+
+Week 4
+I had no problems this week.
+
+Week 5
+
+
+
+
+
+
+
+
