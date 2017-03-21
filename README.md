@@ -88,6 +88,20 @@ I had no problems this week.
 
 Week 5
 
+This week for COMP 160 we looked at SQL and databases, these concepts were interesting but quite complicated to learn in one session. So I plan to look at the slides later in the week to try and understand hese concepts fully.  
+
+Week 6
+
+For Comp 140 we were introduced to our arduinos where we made some LEDS light up. This was very interesting and I plan to do some more work with the arduino at home. For COMP 160 this week we looked at UNIX servers and databases 
+
+Week 7
+
+
+Week 8
+
+
+Week 9
+
 
 
 
