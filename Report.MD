@@ -14,8 +14,12 @@ Team work is one of the most important factors in the game industry as if teams 
 
 Written Skills 
 
+Written skills are very important in game developement becuas if you do not have good written skills then your code may suffer and your comments will not make sense when being applied to you code. It also means that when writing papers and essays, it may be very hard for someone to read your essay and agree or disagree with your essays if they cannot understand it. In my own work i found that my written skills are lacking, in terms of grammar and referencing works. Synthesizing referenced works was also a problem that I encountered. 
+
 Organization
 
 Organization is very important in the games industry because without it, teams and individuals would not be able to work to their full potential and time would be lost. This could make or break a project, if organization is not practiced then a development project that should last 6 months could last a year. This is because of booking spaces, hiring staff, assets etc. Organization stopped me from achieving the highest-grade I could achieve, the reason for this is because I was not organized and dedicated to the work I was doing. So, the work I did was sloppy. Within my groups if there was a little organization we could have completed our pre-production relatively early. This meant we could have spent time refining it instead of working right up to the deadline and stressing ourselves out. 
 
 Ability to work under pressure 
+
+The ability to work under pressure is very important because half way through he semester we had not done a lot for our game and I was behind on some work. This meant I had to do the work very fast and very close to a deadline. This made my work sloppy and made it less than it could have been because I felt that anything at a basic level would do. Within my group we worked under pressure a lot because we did not have a proper functioning game. We did a lot of work within the few weeks that we had but the work we did was still full of mistakes.
