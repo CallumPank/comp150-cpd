@@ -84,7 +84,7 @@ For COMP 130 we looked at advanced OOP design I missed this lecture but read the
 
 
 Week 4
-I had no problems this week.
+This week for part of the game I looked at implementing a puzzle level into the group game. The problem I had was that I could not figure a way to make a matinee play when the platforms for my puzzle reached a certain angle on their Z axis. I will need to look further into this to solve it.
 
 Week 5
 
@@ -92,12 +92,14 @@ This week for COMP 160 we looked at SQL and databases, these concepts were inter
 
 Week 6
 
-For Comp 140 we were introduced to our arduinos where we made some LEDS light up. This was very interesting and I plan to do some more work with the arduino at home. For COMP 160 this week we looked at UNIX servers and databases 
+For Comp 140 we were introduced to our arduinos where we made some LEDS light up. This was very interesting and I plan to do some more work with the arduino at home. For COMP 160 this week we looked at UNIX servers and databases, in this seesion we tried to set up a server for our high score table for our group game. This was challenging and I need to review the slides later this week.
 
 Week 7
 
+No problems this week.
 
 Week 8
+
 
 
 Week 9
