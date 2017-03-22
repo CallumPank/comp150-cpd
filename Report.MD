@@ -23,3 +23,22 @@ Organization is very important in the games industry because without it, teams a
 Ability to work under pressure 
 
 The ability to work under pressure is very important because half way through he semester we had not done a lot for our game and I was behind on some work. This meant I had to do the work very fast and very close to a deadline. This made my work sloppy and made it less than it could have been because I felt that anything at a basic level would do. Within my group we worked under pressure a lot because we did not have a proper functioning game. We did a lot of work within the few weeks that we had but the work we did was still full of mistakes.
+
+Semester 2
+
+TeamWork?
+
+Learning New Programming 
+
+Learning to Apply Programming Concepts
+
+Stress?
+
+Practise
+
+
+
+
+
+
+
