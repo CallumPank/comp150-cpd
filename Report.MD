@@ -32,13 +32,13 @@ This symester were put into teams working with other disiplines such as artists,
 
 Learning New Programming Languages
 
-Learning new programming languages is needed in the games industry as you do not know which system or engine you will be using and what language runs on that system. This means that it is very useful for an individual to learn new programming languages as to increase their employability. 
+Learning new programming languages is needed in the games industry as you do not know which system or engine you will be using and what language runs on that system. This means that it is very useful for an individual to learn new programming languages as to increase their employability. This semester because we switched from python to unreal engine we had to learn C++. I found this to be quite hard but enjoyable as I found that C++ was much more fun to use then python. The diffuculty came when I learned that C++ was so different to python. The way I overcame this was that I used tutorials and the worksheets that we were given to at least learn the basics of C++ and this helped to complete the work I was given. I plan to use C++ and unreal engine to make some games as to further my knowledge in C++ for second year.
 
 Learning to Apply Programming Concepts
 
-Stress?
+Learning to apply programming concepts to work is need in the games industry because it becomes very ineficcient in a company when you have to hire someone else to make up the theory and someone else to implement it in engine or in code. I had this problem during the group game as one of my puzzles had platoforms and I needed to activate a matinee when the platforms reached a certain point on their Z axis. I knew what I wanted to do but did not know how to implement it. I solved this by asking a tutor how they would implement it and walk me through it step by step. After that I have been improving on implementing my theorys in how to program a certain problem.
 
-Practise
+
 
 
 
