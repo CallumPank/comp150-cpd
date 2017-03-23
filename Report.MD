@@ -10,7 +10,7 @@ Time management is very important to game development because if a person does n
 
 Team Work
 
-Team work is one of the most important factors in the game industry as if teams do not work well together then their individual abilities are not maximized. This damages the work that they produce and possibly stops development from happening at all. In all our coding task, we have been in groups and if I had communicated well with my partner we may have been able to achieve a higher grade in our paired work. In our pre-production groups, we weren’t communicating well and as scrum master for some time, I should have noticed that and sorted the problem out and made us more organized. This would have allowed us to finish our pre-production demo to a playable state.
+Team work is one of the most important factors in the game industry because if teams do not work well together then their individual abilities are not maximized. This damages the work that they produce and possibly stops development from happening at all. In all our coding task, we have been in groups and if I had communicated well with my partner we may have been able to achieve a higher grade in our paired work. In our pre-production groups, we weren’t communicating well and as scrum master for some time, I should have noticed that and sorted the problem out and made us more organized. This would have allowed us to finish our pre-production demo to a playable state.
 
 Written Skills 
 
@@ -28,7 +28,11 @@ Semester 2
 
 TeamWork?
 
-Learning New Programming 
+This symester were put into teams working with other disiplines such as artists, designers and animators. At the beginning of the project If we had communicated more and met up often to work on the game. Then the game would be in much better state than it is now. The reason that our game is less than it could have been is because we did not hold meetings as frequently as we could have, also we did not talk to designers about what they wanted. So our game became scattered until about half way through the symester.
+
+Learning New Programming Languages
+
+Learning new programming languages is needed in the games industry as you do not know which system or engine you will be using and what language runs on that system. This means that it is very useful for an individual to learn new programming languages as to increase their employability. 
 
 Learning to Apply Programming Concepts
 
