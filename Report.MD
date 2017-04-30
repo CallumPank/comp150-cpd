@@ -1,8 +1,4 @@
-•	Time Management 
-•	Team Work
-•	Written Skills 
-•	Organization
-•	Ability to work under pressure
+Introduction
 
 Time Management 
 
@@ -24,25 +20,29 @@ Ability to work under pressure
 
 The ability to work under pressure is very important because half way through he semester we had not done a lot for our game and I was behind on some work. This meant I had to do the work very fast and very close to a deadline. This made my work sloppy and made it less than it could have been because I felt that anything at a basic level would do. Within my group we worked under pressure a lot because we did not have a proper functioning game. We did a lot of work within the few weeks that we had but the work we did was still full of mistakes.
 
+Conclusion 
+
 Semester 2
 
-TeamWork?
+Introduction
 
-This symester were put into teams working with other disiplines such as artists, designers and animators. At the beginning of the project If we had communicated more and met up often to work on the game. Then the game would be in much better state than it is now. The reason that our game is less than it could have been is because we did not hold meetings as frequently as we could have, also we did not talk to designers about what they wanted. So our game became scattered until about half way through the symester.
+Teamwork
+
+This semester was put into teams working with other disciplines such as artists, designers and animators. At the beginning of the project If we had communicated more and met up often to work on the game. Then the game would be in much better state than it is now. The reason that our game is less than it could have been is because we did not hold meetings as frequently as we could have, also we did not talk to designers about what they wanted. So, our game became scattered until about half way through the semester.
 
 Learning New Programming Languages
 
-Learning new programming languages is needed in the games industry as you do not know which system or engine you will be using and what language runs on that system. This means that it is very useful for an individual to learn new programming languages as to increase their employability. This semester because we switched from python to unreal engine we had to learn C++. I found this to be quite hard but enjoyable as I found that C++ was much more fun to use then python. The diffuculty came when I learned that C++ was so different to python. The way I overcame this was that I used tutorials and the worksheets that we were given to at least learn the basics of C++ and this helped to complete the work I was given. I plan to use C++ and unreal engine to make some games as to further my knowledge in C++ for second year.
+Learning new programming languages is needed in the games industry as you do not know which system or engine you will be using and what language runs on that system. This means that it is very useful for an individual to learn new programming languages as to increase their employability. This semester because we switched from python to unreal engine we had to learn C++. I found this to be quite hard but enjoyable as I found that C++ was much more fun to use then python. The difficulty came when I learned that C++ was so different to python. The way I overcame this was that I used tutorials and the worksheets that we were given to at least learn the basics of C++ and this helped to complete the work I was given. I plan to use C++ and unreal engine to make some games as to further my knowledge in C++ for second year.
 
 Learning to Apply Programming Concepts
 
-Learning to apply programming concepts to work is need in the games industry because it becomes very ineficcient in a company when you have to hire someone else to make up the theory and someone else to implement it in engine or in code. I had this problem during the group game as one of my puzzles had platoforms and I needed to activate a matinee when the platforms reached a certain point on their Z axis. I knew what I wanted to do but did not know how to implement it. I solved this by asking a tutor how they would implement it and walk me through it step by step. After that I have been improving on implementing my theorys in how to program a certain problem.
+Learning to apply programming concepts to work is need in the games industry because it becomes very inefficient in a company when you must hire someone else to make up the theory and someone else to implement it in engine or in code. I had this problem during the group game as one of my puzzles had platforms and I needed to activate a matinee when the platforms reached a certain point on their Z axis. I knew what I wanted to do but did not know how to implement it. I solved this by asking a tutor how they would implement it and walk me through it step by step. After that I have been improving on implementing my theory’s in how to program a certain problem.
 
+Finding Solutions To New Problems 
 
+Learning to apply yourself to unfamiliar problems and solving them is very important in the games industry as it increases efficiency and makes it so that projects can be finished quicker. One of the biggest difficulties I found this semester is the ability to find out solutions to some problems. I found it very hard to solve problems that would be considered quite basic. This became very frustrating as I could not find solutions to these simple problems ad worse yet for big problems. The way I partly fixed this is by asking tutors for help and learning how they fix these problems, this gave me a good foundation to fix other problems.
 
-
-
-
+Conclusion 
 
 
 
