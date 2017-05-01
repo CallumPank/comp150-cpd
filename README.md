@@ -2,7 +2,7 @@
 
 ## Week 1
 
-Symester 1
+Semester 1
 
 Week 1 
 
@@ -20,7 +20,7 @@ In the second lecture of the week we looked at making a text based adventure gam
 
 In the second lecture of that day we started looking at our agile essays and started thinking of questions that we could do our project on. 
 
-For the last lecture of the week we started looking at tinkering with text this was probably the most difficult activity that I had done because I could just not get the code to work. By the end of lecture, I still could not get the code to work so I looked at it out of lesson hours. It slowly started to make sense but I still can’t code colors.
+For the last lecture of the week we started looking at tinkering with text this was probably the most difficult activity that I had done because I could just not get the code to work. By the end of lecture, I still could not get the code to work so I looked at it out of lesson hours. It slowly started to make sense but I still can’t code colours.
 
 Week 4
 
@@ -34,10 +34,10 @@ For the COMP 110 lecture this week we looked at big O notations which did not se
 
 In the COMP 150 lecture we had to prepare our handouts and pitches for my game idea this was hard because I did not have a coherent game idea, which made it harder to make a handout and think of points for said handout. I did not overcome this and the ideas I had were sub-par, this made my pitch and handout very bad and unprofessional in my opinion. 
 
-For the COMP 120 task we looked at changing the color of images and pixels in an image, this is the hardest task that I have done so far. Even after looking at it after lessons I still did not understand how this was done, I think this is because the python tutorials online do not go into that much detail into what you need to do.
+For the COMP 120 task we looked at changing the colour of images and pixels in an image, this is the hardest task that I have done so far. Even after looking at it after lessons I still did not understand how this was done, I think this is because the python tutorials online do not go into that much detail into what you need to do.
 
 Week 6
-For COMP 120 I was still confused on the technique to change colors of images, even with looking through the notes of the lecture and working out of lessons I still could not wrap my head around it.
+For COMP 120 I was still confused on the technique to change colours of images, even with looking through the notes of the lecture and working out of lessons I still could not wrap my head around it.
 
 Week 7
 
@@ -47,7 +47,7 @@ Week 8
 
 For COMP 150 we started tinkering audio which I found very difficult to follow but after discussing with my peers, about solutions we found a way to solve it.
 
-For COMP 150 we had our sprint review, the problem we faced was that we had possibly made the scope too broad. This meant we were wasting time on small things like a menu, so after discussing with our tutor we decided to scale down our scope slightly.
+For COMP 150 we had our sprint review, the problem we faced was that we had possibly made the scope too broad. This meant we were wasting time on trivial things like a menu, so after discussing with our tutor we decided to scale down our scope slightly.
 
 Week 9
 
@@ -55,7 +55,7 @@ I had no problems this week.
 
 Week 10
 
-For COMP 110 we were introduced to C++ which seemed difficult because of the small changes that made it different to python and how we had to prepare them. But after looking further into C++ it does not seem much more difficult.
+For COMP 110 we were introduced to C++ which seemed difficult because of the slight changes that made it different to python and how we had to prepare them. But after looking further into C++ it does not seem much more difficult.
 
 For COMP 150 we had an academic peer review, my essay had lots of flaws because I decided to change my question at the last moment, this meant my draft was not as good as it could've been.
 
@@ -69,15 +69,15 @@ Week 12
 
 For COMP 150 we had our presentation to investors which we were severely under prepared for and our pre-production task was not good at all, since it was not a game and merely a jumbled batch of mechanics.
 
-Symester 2
+Semester 2
 
 Week 1
 I had no problems this week.
 
 Week 2
-For COMP 140 we looked at colletions and generic types I found this to be quite confusing but I plan to to read more about it later this week. 
+For COMP 140 we looked at collections and generic types I found this to be quite confusing but I plan to read more about it later this week. 
 
-For COMP 160 we looked at UML diagrams this was relativly easy but I am still confused on how to do it properly so I plan to research it later.
+For COMP 160 we looked at UML diagrams this was relatively easy but I am still confused on how to do it properly so I plan to research it later.
 
 Week 3
 For COMP 130 we looked at advanced OOP design I missed this lecture but read the slides and understood most of it but will need to do further research to fully grasp this concept.
@@ -88,11 +88,11 @@ This week for part of the game I looked at implementing a puzzle level into the 
 
 Week 5
 
-This week for COMP 160 we looked at SQL and databases, these concepts were interesting but quite complicated to learn in one session. So I plan to look at the slides later in the week to try and understand hese concepts fully.  
+This week for COMP 160 we looked at SQL and databases, these concepts were interesting but quite complicated to learn in one session. So, I plan to look at the slides later in the week to try and understand these concepts fully.  
 
 Week 6
 
-For Comp 140 we were introduced to our arduinos where we made some LEDS light up. This was very interesting and I plan to do some more work with the arduino at home. For COMP 160 this week we looked at UNIX servers and databases, in this seesion we tried to set up a server for our high score table for our group game. This was challenging and I need to review the slides later this week.
+For Comp 140 we were introduced to our Arduinos where we made some LEDS light up. This was very interesting and I plan to do some more work with the Arduino at home. For COMP 160 this week we looked at UNIX servers and databases, in this session we tried to set up a server for our high score table for our group game. This was challenging and I need to review the slides later this week.
 
 Week 7
 
@@ -100,14 +100,19 @@ No problems this week.
 
 Week 8
 
-
+This week I looked at my essay and worked on my Arduino.
 
 Week 9
 
+This week for COMP 140 we looked at communicating with the sensors on the Arduino and the strengths and weaknesses of protocols within the Arduino. For COMP 160 we had our essays looked at as well as looking at some of our peer’s essays and peer reviewing them. My essay had come out of the peer review well even though It was not finished.
 
+Week 10
 
+For COMP 140 we looked at modern software licenses and the advantages and disadvantages of these types of software licenses and then looking at which type of software license is appropriate for our intellectual property. For COMP 160 we looked at unit testing which is used to improve the quality of our source code.
 
+Week 11
 
+This week I looked at finishing my essay and trying to work on my Arduino which was not going very well, also the game that I had made for the Arduino project had also broke which took time to fix which I should have used on making my Arduino controller work.
 
 
 
